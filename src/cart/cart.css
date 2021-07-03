@@ -1,0 +1,30 @@
+.cartImages{
+    width:100px;
+    height:100px;
+    
+}
+.cartDiv{
+    background-color: white;
+    margin:2% 0 2% 3%;
+    padding:1% 2%;
+    width:25%;
+    box-shadow: 1px 3px 5px grey;
+    border-radius: 15px;
+}
+.imageContainer{
+    display:flex;
+    justify-content: space-evenly;
+}
+.rightSec{
+    position:fixed;
+    right:35%;
+    top:25%;
+}
+button{
+    margin-top:2%;
+    background-color: #009688;
+    border:none;
+    color:white;
+    padding:4% 6%;
+    border-radius: 5px;
+}

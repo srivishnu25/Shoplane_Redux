@@ -1,0 +1,8 @@
+.card-wrapper{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin:5% 0;
+    flex-wrap:wrap;
+    padding:3% 6%;
+}

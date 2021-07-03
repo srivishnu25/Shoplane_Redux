@@ -1,0 +1,41 @@
+.product-wrapper{
+    margin:7% 0;
+    display:flex;
+    justify-content: space-evenly;
+}
+.previewDiv{
+    width:40%;
+}
+#preview{
+    width:70%;
+    
+}
+.products-details-div{
+    width:45%;
+    padding:2% 4%;
+}
+.photos{
+    width:15%;
+    margin:2%;
+    cursor: pointer;
+    padding:2px;
+    
+}
+.activee{
+    border-radius: 5px;
+    border:2px solid rgb(49, 121, 49)
+}
+#loader{
+    position: fixed;
+    right:50%;
+    top:50%;
+}
+#cart{
+    margin-top:5%;
+    border:none;
+    padding:2% 1%;
+    background-color: #009688;
+    color:white;
+    border-radius:5px;
+    cursor: pointer;
+}
